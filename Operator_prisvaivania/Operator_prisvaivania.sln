@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator_prisvaivania", "Operator_prisvaivania\Operator_prisvaivania.csproj", "{FEEE42FE-0C06-4118-9F7F-30F578483B7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{D2F0BA64-2BC1-479B-BAC3-7BF0FCBF0469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEE42FE-0C06-4118-9F7F-30F578483B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEE42FE-0C06-4118-9F7F-30F578483B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEE42FE-0C06-4118-9F7F-30F578483B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEE42FE-0C06-4118-9F7F-30F578483B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA3A0D15-2952-4620-B67C-9B1DBC861B54}
+	EndGlobalSection
+EndGlobal

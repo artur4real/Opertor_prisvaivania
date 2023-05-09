@@ -1,0 +1,11 @@
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\obj\Debug\Operator_prisvaivania.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\obj\Debug\Operator_prisvaivania.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\obj\Debug\Operator_prisvaivania.Properties.Resources.resources
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\obj\Debug\Operator_prisvaivania.csproj.GenerateResource.cache
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\obj\Debug\Operator_prisvaivania.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\bin\Debug\Operator_prisvaivania.exe.config
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\bin\Debug\Operator_prisvaivania.exe
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\bin\Debug\Operator_prisvaivania.pdb
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\obj\Debug\Operator_prisvaivania.Form1.resources
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\obj\Debug\Operator_prisvaivania.exe
+C:\Users\artur\source\repos\Operator_prisvaivania\Operator_prisvaivania\obj\Debug\Operator_prisvaivania.pdb
